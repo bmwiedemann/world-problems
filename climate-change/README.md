@@ -4,7 +4,7 @@ CO2 is a potent greenhouse gas and humans have been emitting increasing amounts 
 
 Methane CH4 and nitrous oxide N2O are even more potent, but not emitted in the same amounts, so their influence on the climate is not as significant as CO2's.
 
-Deniers often point to other sources such as vulcanic erruptions, variations in solar activity or natural cycles as explanations. However scientific models account for these and still conclude that man-made greenhouse gasses are the significant driver behind rising global temperatures.
+Deniers often point to other sources such as volcanic eruptions, variations in solar activity or natural cycles as explanations. However scientific models account for these and still conclude that man-made greenhouse gases are the significant driver behind rising global temperatures.
 
 Warming is not the damage. The damage arrives as failed harvests, shifting water, dying ecosystems and people who move. See [food](../food/), [water](../water/), [biodiversity](../biodiversity/) and [migration](../migration/).
 

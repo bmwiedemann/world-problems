@@ -3,7 +3,7 @@
 The world is full of small problems, but behind them
 are often a small number of big and hard problems.
 
-This project is about exploring these problems and thing about possible solutions.
+This project is about exploring these problems and think about possible solutions.
 
 ## Structure
 
