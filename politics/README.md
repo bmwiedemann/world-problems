@@ -10,5 +10,7 @@ help encourage long-term thinking in politics.
 Sometimes expert commitees are assembled and their opinions ignored.
 How could a decision be made that hurts today, but will be beneficial long-term. After 20, 100 or even 1000 years?
 
+Direct democracy (e.g. Swizzerland) or absolute monarchy (e.g. Saudi Arabia and Oman) have some advantages but also their own set of problems.
+
 [demographics](../demographics/) means, the average voter is age 50+ and this is the more wealthy, more connected half of the population, their perspectives are often disproportionately considered in politics. pensions are raised but young people don't get the support they need.
 
