@@ -32,3 +32,46 @@ Kyoto had binding targets. On final 2008–2012 data, [Shishlov, Morel and Bella
 
 ## Solutions
 
+Nothing below requires an authority above states, because there will not be one. The question is which devices have moved state behaviour without one.
+
+**Three properties separate the cases that worked.** The rule changed a cash flow rather than a declared intention. Compliance was observable by somebody other than the party complying. And some specific actor had both the standing and a self-interested reason to impose the penalty. Montreal has all three; most of what follows fails on the second or the third.
+
+Everything that worked was also narrow: a class of chemicals, a fuel specification, a bomb-grade metal. Breadth and enforceability trade against each other, and the agreements with global scope are the ones with nothing behind them.
+
+### Make the outside worse than the inside
+
+Article 4 (see Research) is the working part of Montreal. It does not punish emitting; it removes market access, which the parties themselves control and can therefore actually withhold. Joining became cheaper than staying out, and each state could reach that conclusion alone.
+
+The mechanism has transferred once. The Kigali Amendment extended the same machinery to HFCs and had [174 parties as of August 2026](https://ozone.unep.org/all-ratifications); the [2022 WMO/UNEP ozone assessment](https://csl.noaa.gov/assessments/ozone/2022/) estimates compliance avoids 0.3-0.5 °C of warming from HFCs by 2100 against an uncontrolled baseline — warming from HFCs, not off the total. But it is the same secretariat, the same trade lever and cheap substitutes again, so transfer to the adjacent problem is weaker evidence than it looks.
+
+Outside the environment, the clearest case that denying access moves states is the Financial Action Task Force grey list. [Kida and Paetzold (IMF, 2021)](https://www.elibrary.imf.org/view/journals/001/2021/153/article-A001-en.xml) estimate capital inflows fall by about 7.6% of GDP on listing; 78 countries had been listed at least once. States reform to get off it. Nobody signed a treaty: a club that controls the banking system published a list. The EU's carbon border adjustment (Research) is the first attempt to build that lever for emissions, and the thing to watch is whether it produces accession or retaliation.
+
+### Verification is the precondition, not the follow-up
+
+A sanction that cannot be triggered is not a sanction. Routine atmospheric measurement, not inspection, found CFC-11 emissions from eastern China [7.0 ± 3.0 Gg/yr higher in 2014-2017 than in 2008-2012](https://www.nature.com/articles/s41586-019-1193-4), 40-60% of an unexplained global rise; after enforcement the same networks measured the [return to 5.0 ± 1.0 Gg/yr by 2019](https://www.nature.com/articles/s41586-021-03277-w). No inspector entered a factory, and the measurement did not depend on the party being measured.
+
+Nuclear has this; fisheries and methane do not. The IAEA applied safeguards in [190 states in 2024](https://www.iaea.org/newscenter/news/iaea-applied-safeguards-for-190-states-iaea-report), over 3,000 field activities at more than 1,300 facilities. Remote sensing is the one input to this problem that has become dramatically cheaper. Build the monitoring before the agreement; without it every treaty degrades into self-reporting, which is the state of climate accounting now.
+
+### Pay the defector rather than persuade them
+
+Side payments buy the exceptions to Barrett's result (Research). Montreal's Multilateral Fund has provided [about $4.3 billion across 10,198 projects in 144 countries](https://www.multilateralfund.org/) since 1991 — not aid, but a purchase of ratification from states that could otherwise have defected profitably.
+
+The same logic outside the environment: under [Megatons to Megawatts](https://www.centrusenergy.com/who-we-are/history/megatons-to-megawatts/) the United States bought and downblended 500 tonnes of Russian bomb-grade uranium, material for some 20,000 warheads, which for two decades supplied up to 10% of US electricity. Nunn-Lugar spent over $1 billion a year to similar effect, though its [scorecard](https://www.thelugarcenter.org/assets/htmldocuments/20130301_FY13_CTR-Scorecard_Slides_Mar13.pdf) is a self-report whose counts differ between versions. See [war](../war/).
+
+Where side payments disappoint is instructive. Debt-for-nature swaps buy promises, not acts. [Essers, Cassimon and Prowse (2021)](https://ueaeprints.uea.ac.uk/id/eprint/81984/1/Accepted_Manuscript.pdf) find they "do not have a great historical track record", faulting their piecemeal nature and lack of additionality, and an analysis of Ecuador's 2023 Galápagos swap puts its effective cost at [7.387% against the 5.645% investors receive](https://www.yalejournal.org/publications/macro-fiscal-impact-and-governance-dynamics-in-ecuadors-debt-for-nature-swaps-t82tf). Buying a verifiable one-off act works; buying future restraint does not.
+
+### Narrow and technical beats comprehensive
+
+The IMO ran both experiments. On 1 January 2020 the global sulphur limit for marine fuel [fell from 3.50% to 0.50%](https://www.imo.org/en/MediaCentre/HotTopics/Pages/Sulphur-2020.aspx). Satellite measurement of ship tracks later found the expected change and "independent evidence for general compliance" ([Diamond, 2023](https://acp.copernicus.org/articles/23/8259/2023/)). It worked because it was a fuel specification checked by port inspectors already boarding the ship.
+
+The same organisation approved a Net-Zero Framework in April 2025, then [adjourned its adoption in October 2025](https://www.imo.org/en/MediaCentre/MeetingSummaries/Pages/MEPC-ES-2.aspx) for a year. The difference is not ambition. A fuel spec barely moves anyone's relative position; a carbon levy moves money between states.
+
+### What does not work
+
+* **Voluntary pledges.** The Global Methane Pledge has 159 countries and a 30%-by-2030 target; the IEA's [2026 tracker](https://www.iea.org/reports/global-methane-tracker-2026/key-findings) finds no sign energy-related methane fell in 2025. The Aichi targets ended with [none of the 20 fully achieved and six partially](https://www.cbd.int/gbo/gbo5/publication/gbo-5-spm-en.pdf). Atmospheric growth has slowed since 2021 ([NOAA](https://gml.noaa.gov/ccgg/trends_ch4/)), which is not the same as the pledge working.
+* **Consensus bodies where any one party can block**, such as the CCW process on autonomous weapons. See [war](../war/).
+* **Compliance machinery forbidden to punish**, as under Paris Article 15 (Research).
+
+**Ostrom, scaled honestly.** What transfers upward is the pair that did the work: monitoring accountable to somebody other than the user, and graduated sanctions. What does not transfer is the shared legal umbrella the principles assume. The workaround is to regulate the money rather than the resource, because money is auditable and fish are not — the WTO's fisheries subsidies agreement [entered into force on 15 September 2025](https://www.wto.org/english/tratop_e/rulesneg_e/fish_e/fish_acceptances_e.htm). Where authority does exist, management works: [Hilborn et al. (2020)](https://pubmed.ncbi.nlm.nih.gov/31932439/) find assessed stocks at or near target abundance, while regions with less-developed management run roughly three times the harvest rate at half the abundance. The problem was never knowing what to do with a fishery.
+
+Where one authority can set the rules outright, the tools are different and better evidenced. See [incentives](../incentives/).
