@@ -14,3 +14,6 @@ Direct democracy (e.g. Swizzerland) or absolute monarchy (e.g. Saudi Arabia and 
 
 [demographics](../demographics/) means, the average voter is age 50+ and this is the more wealthy, more connected half of the population, their perspectives are often disproportionately considered in politics. pensions are raised but young people don't get the support they need.
 
+Debate now runs on a media system that rewards outrage over accuracy, and evidence can be fabricated cheaply. See [information](../information/).
+
+The hardest part is not knowing what to do. It is acting when the cost is now, the benefit is later, and everyone else can wait. See [coordination](../coordination/).

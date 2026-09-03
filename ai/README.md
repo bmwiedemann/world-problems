@@ -8,4 +8,10 @@ AI can do more and more jobs at a faster, more consistent pace and at a lower pr
 
 Creating an AI that is much more intelligent than humans causes existential [risks](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence) for humanity.
 
+Cheap generated text, images and video also make it hard to tell what is real. See [information](../information/).
+
+The same design tools that speed up medicine lower the barrier to engineering pathogens. See [health](../health/).
+
+Faster, more automated military decisions shorten the time available to humans. See [war](../war/).
+
 ## Solutions

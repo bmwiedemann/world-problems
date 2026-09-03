@@ -6,6 +6,10 @@ Having all robots (including the massive datacenters behind them) owned by few a
 
 Without income people cannot sustain themselves and not buy products to keep the economy flowing.
 
+Growth has assumed cheap materials and cheap energy. Both are getting more expensive to extract. See [resources](../resources/) and [energy](../energy/).
+
+Prices ignore damage that has no owner: emissions, aquifers, fish stocks, persistent chemicals. Those costs do not disappear, they are just paid by someone else later. See [coordination](../coordination/).
+
 ## Research
 
 ## Solutions
