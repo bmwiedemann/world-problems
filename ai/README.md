@@ -14,6 +14,8 @@ The same design tools that speed up medicine lower the barrier to engineering pa
 
 Faster, more automated military decisions shorten the time available to humans. See [war](../war/).
 
+Safety training is a property of the weights as shipped, not of the model. Open-weight releases can be "abliterated": the internal direction that produces refusals is found and suppressed, which strips the refusal behaviour cheaply and without retraining. Whatever a model can do, someone will make it do. Weights, once published, cannot be recalled. See [information](../information/) and [health](../health/).
+
 ## Research
 
 The inputs are growing far faster than the economy around them. From [Epoch AI](https://epoch.ai/trends) (figures as of 2026):
@@ -32,6 +34,8 @@ What safety institutes actually measure is capability and safeguards, not probab
 Labour effects are visible but contested. The [ILO](https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure) (2025) puts about a quarter of world employment in occupations with some generative-AI exposure and 3.3% in the highest gradient, skewed female (4.7% vs 2.4%). [Stanford's payroll study](https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/) finds employment of 22-25 year olds in the most exposed occupations 19% below the counterfactual as of June 2026, up from 15% in July 2025, with no such gap for experienced workers; the authors call this descriptive, not causal. Against that, [METR's 2025 trial](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/) found 16 experienced developers 19% slower with AI tools while believing they were 20% faster. See [economics](../economics/).
 
 Where it might stop: [Epoch's bottleneck analysis](https://epoch.ai/blog/can-ai-scaling-continue-through-2030) (2024) finds power binds first, with runs around 2e29 FLOP feasible by 2030 given multi-gigawatt campuses, and public human text the other near-term limit. Forecasters disagree on whether 4-5x per year holds or decelerates to 3-4x from 2026.
+
+Open weights set a floor under all of this. Refusal behaviour in open-weight chat models is mediated largely by a single direction in activation space, and removing that direction disables refusals across prompts while leaving other capabilities close to intact ([Arditi et al. 2024](https://arxiv.org/abs/2406.11717)). The technique needs no retraining and runs on ordinary hardware, so abliterated variants of major releases appear on model-sharing sites within days. The practical floor for misuse is therefore set by the most capable open-weight model, not by the most capable model.
 
 Timelines move a lot. The 2023 survey of [2778 AI researchers](https://arxiv.org/abs/2401.02843) gave a median of 2047 for machines outperforming humans at every task, 13 years earlier than the same question a year before. Between 38% and 51% assigned at least a 10% chance to outcomes as bad as human extinction.
 

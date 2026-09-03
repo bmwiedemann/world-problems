@@ -10,6 +10,8 @@ Growth has assumed cheap materials and cheap energy. Both are getting more expen
 
 Prices ignore damage that has no owner: emissions, aquifers, fish stocks, persistent chemicals. Those costs do not disappear, they are just paid by someone else later. See [coordination](../coordination/).
 
+Firms optimise the number they are measured on. When that number leaves out a cost, the cost still happens. See [incentives](../incentives/).
+
 ## Research
 
 In the US nonfarm business sector the share of output paid to labour fell from 65.8% in Q1 1947 to a low of 56.0% in Q4 2011, recovering to 58.4% by Q3 2016 ([BLS](https://www.bls.gov/opub/ted/2017/labor-share-of-output-has-declined-since-1947.htm)). Globally the [ILO](https://www.ilo.org/resource/news/global-labour-income-share-declines-putting-upward-pressure-inequality-sdg) finds the labour income share fell 0.6 percentage points from 2019 to 2022 and has been flat since; at its 2004 level, workers would have received about US$2.4 trillion more in 2024 alone.

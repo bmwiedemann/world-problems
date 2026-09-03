@@ -21,6 +21,7 @@ that link to other topics where appropriate.
 * [energy](energy/) - growing demand, and the cost of meeting it
 * [food](food/) - feeding more people from strained land
 * [health](health/) - resistant bacteria, new pathogens, ageing patients
+* [incentives](incentives/) - rewards that produce bad decisions
 * [information](information/) - not being able to tell true from fake
 * [migration](migration/) - people moving away from places turning hostile
 * [politics](politics/) - short terms, self-interest and long-term decisions

@@ -10,6 +10,8 @@ Decisions are made by people with four-year horizons on problems with hundred-ye
 
 Discounting the future is rational for an individual and ruinous for a species.
 
+The general case is that actors follow the rewards they face, not the outcome anyone wants. Coordination problems are the subset where those rewards are set by other actors who cannot be bound. See [incentives](../incentives/).
+
 This is the bottleneck. Nearly every technical solution elsewhere in this project already exists on paper and is not deployed because of this problem.
 
 ## Research

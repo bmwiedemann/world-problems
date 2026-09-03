@@ -18,6 +18,8 @@ Debate now runs on a media system that rewards outrage over accuracy, and eviden
 
 The hardest part is not knowing what to do. It is acting when the cost is now, the benefit is later, and everyone else can wait. See [coordination](../coordination/).
 
+The election cycle is an incentive structure, not a personality defect. The same person behaves differently under different rewards. See [incentives](../incentives/).
+
 ## Research
 
 **How much democracy there is.** [V-Dem's Democracy Report 2026](https://www.v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf), scoring 2025, counts 92 autocracies against 87 democracies. 74% of the world population (about 6 billion) lives under autocracy, 7% (0.6 billion) under liberal democracy. Weighted by population, the world's level of liberal democracy is back to its 1978 value: the gains of the "third wave" that began in 1974 are nearly erased. 44 countries are autocratising, 18 democratising. The share of people in an autocratising country went from 9% in 2005 to 41% (3.4 billion) in 2025; the share in a democratising one fell from 11% to 5%. Freedom of expression declined in 44 countries in 2025, against 7 in 2005.
